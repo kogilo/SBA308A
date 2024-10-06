@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 50px;
+
+    
+}
+
+input, button {
+    padding: 10px;
+    margin: 10px;
+    margin-bottom: 4px;
+    font-size: 16px;
+    box-sizing: border-box;
+    border: 1px solid #5f9341;
+    
+}
+
+#country-profile {
+    margin-top: 20px;
+}
+
+button {
+    background: #5f9341;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    font-weight: bold;
+}

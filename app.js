@@ -51,6 +51,7 @@ function displayCountryProfile(country) {
         <p><strong>Capital City:</strong> ${country.capitalCity || 'N/A'}</p>
         <p><strong>Population (most recent):</strong> ${country.population || 'N/A'}</p>
         <p><strong>Country Code:</strong> ${country.id}</p>
+        
     `;
 }
 

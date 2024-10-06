@@ -53,6 +53,9 @@ function displayCountryProfile(country) {
         <p><strong>Country Code:</strong> ${country.id}</p>
         
     `;
+    countryProfileDiv.style.backgroundColor = "#76b5c5";
+    countryProfileDiv.style.borderRadius = "20px 20px";
+    countryProfileDiv.style.width = "100%";
 }
 
 // Search button event listener
